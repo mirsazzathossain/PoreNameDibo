@@ -1,0 +1,12 @@
+results/
+logs/
+dataset/
+llmvenv/
+trash/
+output/
+__pycache__/
+train.py
+predict.py
+train.ipynb
+train.sh
+predict.sh
